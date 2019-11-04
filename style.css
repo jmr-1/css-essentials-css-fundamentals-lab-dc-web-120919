@@ -28,6 +28,7 @@ p {
 
 #details {
   display: block;
+  background: red;
 }
 
 div#details {
