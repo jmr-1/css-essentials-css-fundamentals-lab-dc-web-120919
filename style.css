@@ -25,3 +25,8 @@ p {
 #fig {
   text-align: center;
 }
+
+#details {
+  display: block;
+  
+}
