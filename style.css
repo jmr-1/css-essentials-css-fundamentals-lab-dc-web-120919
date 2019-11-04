@@ -29,6 +29,7 @@ p {
 #details {
   display: block;
   background: red;
+  text-align: center;
 }
 
 div {
