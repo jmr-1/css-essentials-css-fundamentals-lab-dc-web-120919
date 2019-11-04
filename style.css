@@ -22,7 +22,7 @@ p {
   margin-right: auto;
 }
 
-a {
+.center a {
   align-content: center;
   background: gray; 
 }
