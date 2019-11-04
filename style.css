@@ -15,7 +15,7 @@ img.center {
   margin-right: auto;
 }
 
-p {
+p#featured-property {
   text-align: center;
   width: 800px;
   margin-left: auto;
