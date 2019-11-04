@@ -22,3 +22,6 @@ p {
   margin-right: auto;
 }
 
+figcaption {
+  text_align: center;
+}
