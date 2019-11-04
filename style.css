@@ -31,5 +31,5 @@ p {
 }
 
 div#details {
-  float: left;
+  background-color: red;
 }
